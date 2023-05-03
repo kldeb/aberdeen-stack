@@ -11,7 +11,7 @@ concurrency:
 
 jobs:
   format:
-    if: github.repository == 'remix-run/grunge-stack'
+    if: github.repository == 'kldeb/aberdeen-stack'
     runs-on: ubuntu-latest
 
     steps:
